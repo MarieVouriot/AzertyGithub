@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzertyGithub", "AzertyGithub\AzertyGithub.csproj", "{538A8465-128F-44C8-B0C1-8E569C00E564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetierAzerty", "MetierAzerty\MetierAzerty.csproj", "{4555E598-E5E3-47EF-9293-E5598D87438B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538A8465-128F-44C8-B0C1-8E569C00E564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538A8465-128F-44C8-B0C1-8E569C00E564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538A8465-128F-44C8-B0C1-8E569C00E564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538A8465-128F-44C8-B0C1-8E569C00E564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4555E598-E5E3-47EF-9293-E5598D87438B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4555E598-E5E3-47EF-9293-E5598D87438B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4555E598-E5E3-47EF-9293-E5598D87438B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4555E598-E5E3-47EF-9293-E5598D87438B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3BB243-3C96-476D-903A-0F0FF2AC55AF}
+	EndGlobalSection
+EndGlobal
